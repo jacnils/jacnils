@@ -11,6 +11,8 @@ See [my website](https://jacobnilsson.com) for more information.
 Public accounts:
 - Discord: @jacnils
 - GitHub: @jacnils
+- YouTube 1: @jacnils
+- YouTube 2: @jacobnilssongd
 - Pointercrate: Jacob Nilsson
 - AREDL: [GDSE] Jacob Nilsson
 
